@@ -1,0 +1,12 @@
+# SETUP
+baseurl = ""
+publishdir = "public"
+canonifyUrls = "true"
+disableKinds = ["RSS","taxonomy","taxonomyTerm","sitemap"]
+
+[params]
+    author = "ttntm"
+    DateForm = "02.01.2006"
+    showReadTime = 1
+    title = "Hugo+Leaflet Store Locator"
+    description = "A Leaflet based store locator rendered as a static site by hugo."

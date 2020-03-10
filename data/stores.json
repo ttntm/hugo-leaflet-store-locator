@@ -1,0 +1,371 @@
+[
+  {
+    "shopName": "McDonald's Messe Vienna",
+    "shopAddress": "Ausstellungsstraße 44A",
+    "shopPLZ": "1020 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.217461",
+    "shopLongitude": "16.405981",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Praterstern",
+    "shopAddress": "Praterstern 3990/2",
+    "shopPLZ": "1020 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.217836",
+    "shopLongitude": "16.392217",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Handelskai",
+    "shopAddress": "Handelskai 130",
+    "shopPLZ": "1020 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.233456",
+    "shopLongitude": "16.395025",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Taborstraße",
+    "shopAddress": "Taborstraße 39",
+    "shopPLZ": "1020 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.219235",
+    "shopLongitude": "16.380754",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Rivergate",
+    "shopAddress": "Rivergate, Handelskai 92",
+    "shopPLZ": "1200 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.241946",
+    "shopLongitude": "16.384423",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Schwedenplatz",
+    "shopAddress": "Rotenturmstraße 29",
+    "shopPLZ": "1010 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.211787",
+    "shopLongitude": "16.375875",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Heiligenstadt",
+    "shopAddress": "Heiligenstädter Straße 68",
+    "shopPLZ": "1190 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.243213",
+    "shopLongitude": "16.361738",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's FJB",
+    "shopAddress": "Julius-Tandler-Platz 3",
+    "shopPLZ": "1090 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.226074",
+    "shopLongitude": "16.361011",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Universität",
+    "shopAddress": "Universitätsring 12",
+    "shopPLZ": "1010 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.213414",
+    "shopLongitude": "16.362011",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Singerstraße",
+    "shopAddress": "Singerstraße 4",
+    "shopPLZ": "1010 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.207648",
+    "shopLongitude": "16.372437",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Wien Mitte",
+    "shopAddress": "Landstraßer Hauptstraße 1B",
+    "shopPLZ": "1030 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.206481",
+    "shopLongitude": "16.384397",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Schwarzenbergplatz",
+    "shopAddress": "Schwarzenbergplatz 17",
+    "shopPLZ": "1010 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.201102",
+    "shopLongitude": "16.374146",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Karlsplatz",
+    "shopAddress": "Nr.1, U-Bahnpassage Lokal, Karlsplatz",
+    "shopPLZ": "1010 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.200972",
+    "shopLongitude": "16.368528",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Johannesgasse",
+    "shopAddress": "Johannesgasse 3",
+    "shopPLZ": "1010 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.205252",
+    "shopLongitude": "16.371649",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Mariahilfer Straße 1",
+    "shopAddress": "Mariahilfer Straße 22-24",
+    "shopPLZ": "1070 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.200860",
+    "shopLongitude": "16.357434",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Mariahilfer Straße 2",
+    "shopAddress": "Mariahilfer Straße 85-87",
+    "shopPLZ": "1070 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.197566",
+    "shopLongitude": "16.348327",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Westbahnhof",
+    "shopAddress": "Europaplatz 2 OB 1.26",
+    "shopPLZ": "1150 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.196285",
+    "shopLongitude": "16.338262",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Pilgrambrücke",
+    "shopAddress": "Pilgrambrücke 1",
+    "shopPLZ": "1050 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.192794",
+    "shopLongitude": "16.354584",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Thaliastraße",
+    "shopAddress": "Thaliastraße 17",
+    "shopPLZ": "1160 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.209025",
+    "shopLongitude": "16.335059",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Hernalser Gürtel",
+    "shopAddress": "Stadtbahnbögen 82a-87",
+    "shopPLZ": "1090 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.216086",
+    "shopLongitude": "16.341460",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Grinzing",
+    "shopAddress": "Grinzinger Allee 3",
+    "shopPLZ": "1190 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.246301",
+    "shopLongitude": "16.342273",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Johnstraße",
+    "shopAddress": "Hütteldorfer Straße 81B/4",
+    "shopPLZ": "1150 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.198866",
+    "shopLongitude": "16.319411",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Hadikgasse 1",
+    "shopAddress": "Hadikgasse 62",
+    "shopPLZ": "1140 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.188406",
+    "shopLongitude": "16.303783",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Hietzinger Kai",
+    "shopAddress": "Hietzinger Kai 137",
+    "shopPLZ": "1130 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.191507",
+    "shopLongitude": "16.279168",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Hadikgasse 2",
+    "shopAddress": "Hadikgasse 254",
+    "shopPLZ": "1140 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.192890",
+    "shopLongitude": "16.276212",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Meidling",
+    "shopAddress": "Wilhelmstraße 64",
+    "shopPLZ": "1120 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.174810",
+    "shopLongitude": "16.331071",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Margaretengürtel",
+    "shopAddress": "Margaretengürtel 45",
+    "shopPLZ": "1050 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.179553",
+    "shopLongitude": "16.351150",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Triester Straße",
+    "shopAddress": "Triester Straße 70",
+    "shopPLZ": "1100 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.165230",
+    "shopLongitude": "16.346285",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Verteilerkreis",
+    "shopAddress": "Ludwig-von-Höhnel-Gasse 15",
+    "shopPLZ": "1100 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.159443",
+    "shopLongitude": "16.387097",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Favoritenstraße 1",
+    "shopAddress": "Favoritenstraße 130",
+    "shopPLZ": "1100 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.175068",
+    "shopLongitude": "16.377686",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Favoritenstraße 2",
+    "shopAddress": "Favoritenstraße 89",
+    "shopPLZ": "1100 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.179838",
+    "shopLongitude": "16.376108",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Hauptbahnhof",
+    "shopAddress": "EG, TOP 151",
+    "shopPLZ": "1100 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.185476",
+    "shopLongitude": "16.375235",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Südtiroler Platz",
+    "shopAddress": "Unterfahrung Südtiroler Platz B",
+    "shopPLZ": "1040 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.185995",
+    "shopLongitude": "16.374703",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Donaustadtstraße",
+    "shopAddress": "Donaustadtstraße 49",
+    "shopPLZ": "1220 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.220003",
+    "shopLongitude": "16.444164",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Wagramer Straße",
+    "shopAddress": "Wagramer Straße 54",
+    "shopPLZ": "1220 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.239411",
+    "shopLongitude": "16.431121",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Donauzentrum",
+    "shopAddress": "Wagramer Straße 81-83, TOP 320",
+    "shopPLZ": "1220 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.242760",
+    "shopLongitude": "16.435368",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Floridsdorf",
+    "shopAddress": "Schloßhofer Straße 13-15",
+    "shopPLZ": "1210 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.257528",
+    "shopLongitude": "16.400514",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Leopoldau",
+    "shopAddress": "Leopoldauer Straße 49",
+    "shopPLZ": "1210 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.260205",
+    "shopLongitude": "16.411159",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Breitenlee",
+    "shopAddress": "Breitenleer Str. S2",
+    "shopPLZ": "1220 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.250124",
+    "shopLongitude": "16.470861",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Rautenweg",
+    "shopAddress": "Rautenweg 2",
+    "shopPLZ": "1220 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.264109",
+    "shopLongitude": "16.456108",
+    "shopActive": true
+  },
+  {
+    "shopName": "McDonald's Brünnerstraße",
+    "shopAddress": "Brünnerstraße 170",
+    "shopPLZ": "1210 Vienna",
+    "shopCountry": "Austria",
+    "shopLatitude": "48.280578",
+    "shopLongitude": "16.411830",
+    "shopActive": true
+  }
+]

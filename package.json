@@ -1,0 +1,20 @@
+{
+  "name": "hugo-leaflet-store-locator",
+  "version": "1.0.0",
+  "description": "A Leaflet based store locator rendered as a static site by hugo.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ttntm",
+  "license": "MIT",
+  "devDependencies": {
+    "css-mqpacker": "^7.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-postcss": "^8.0.0",
+    "gulp-uglify": "^3.0.1"
+  }
+}

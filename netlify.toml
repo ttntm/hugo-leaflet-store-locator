@@ -1,0 +1,40 @@
+[build]
+publish = "public"
+command = "hugo --minify"
+
+[context.production.environment]
+HUGO_VERSION = "0.58.0"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "false"
+command = "hugo --minify"
+
+[Settings]
+ID = "alpengummi.at"
+
+[[headers]]
+  for = "/*" # This defines which paths this specific [[headers]] block will cover.
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    #Cache-Control = "public, max-age=31536000"
+    X-Content-Type-Options = "nosniff"
+[[headers]]
+  for = "/*.js"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Content-Type = "application/javascript"
+[[headers]]
+  for = "/*.css"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Content-Type = "text/css"
+[[headers]]
+  for = "/*.png"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Content-Type = "image/png"
+[[headers]]
+  for = "/*.woff2"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Content-Type = "font/woff2"

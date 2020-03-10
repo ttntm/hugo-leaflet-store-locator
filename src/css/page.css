@@ -1,0 +1,163 @@
+/* bootstrap 4 styles */
+@import url("bootstrap4.4.css");
+
+/*
+ * Globals -- https://getbootstrap.com/docs/4.4/examples/cover/cover.css
+ */
+
+/* Links */
+a,
+a:focus,
+a:hover {
+  color: #5E81AC;
+  transition: all .35s ease-in-out;
+}
+
+/* Custom default button */
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+  color: #2E3440;
+  background-color: #88C0D0;
+  border: .05rem solid #88C0D0;
+}
+
+html,
+body {
+  height: 100%;
+  background-color: #ECEFF4;
+}
+
+body {
+  display: -ms-flexbox;
+  display: flex;
+  color: #4C566A;
+}
+
+@media(min-width:1281px) {
+  .cover-container {
+    max-width: 75vw;
+  }
+  .cover {
+    padding: 0 1.5rem;
+  }
+}
+
+.masthead {
+  margin-bottom: 2rem;
+}
+
+.masthead-brand {
+  margin-bottom: 0;
+}
+
+.nav-masthead .nav-link {
+  padding: .25rem 0;
+  font-weight: 700;
+  color: #5E81AC;
+  background-color: transparent;
+  border-bottom: .25rem solid transparent;
+}
+
+.nav-masthead .nav-link:hover,
+.nav-masthead .nav-link:focus {
+  border-bottom-color: #81A1C1;
+}
+
+.nav-masthead .nav-link + .nav-link {
+  margin-left: 1rem;
+}
+
+.nav-masthead .active {
+  color: #5E81AC;
+  border-bottom-color: #5E81AC;
+}
+
+@media (min-width: 48em) {
+  .masthead-brand {
+    float: left;
+  }
+  .nav-masthead {
+    float: right;
+  }
+}
+
+
+.cover .btn-lg {
+  padding: .75rem 1.25rem;
+  font-weight: 700;
+}
+
+.mastfoot {
+  color: #4C566A;
+}
+
+.sItem-container {
+    width: 33.33333%;
+}
+
+.sItem--offline {
+    border-left: 8px solid #5E81AC;
+    background-color: #f9f8fa;
+    text-align: left;
+}
+
+.sItem--hidden {
+    display: none;
+}
+
+.content img {max-width: 100%;}
+
+.map-container {
+    overflow: hidden;
+}
+
+.shop-container {
+    max-height: 50vh;
+    overflow-y: auto;
+}
+
+@media(max-width:767px) {
+    .sItem-container {
+        width: 100%;
+    }
+
+    .map-container {
+        min-height: 75vh;
+    }
+}
+
+@media(min-width:768px) and (max-width:1023px) {
+    .sItem-container {
+        width: 50%;
+    }
+}
+
+@media(min-width:768px) {
+    .map-container {
+        min-height: 50vh;
+    }
+
+    .sItem--offline:hover {
+        cursor: pointer;
+        border-left: 8px solid #BF616A;
+        background-color: #E5E9F0;
+        transition: all .35s ease-in-out;
+    }
+
+    .map-border {
+        border: 2px solid #4C566A;
+        border-radius: 0.3rem;
+        box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    }
+}
+
+@media(min-width:1024px) {
+    .shop-container {
+        max-height: 50vh;
+    }
+}
+
+.gps-marker::after {
+    content: "📍";
+}

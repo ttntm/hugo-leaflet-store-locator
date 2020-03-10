@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {{ block "head" . }}
+        {{ partial "head.html" . }}
+    {{ end }}
+</head>
+<body class="text-center">
+    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+        {{ block "header" . }}
+            {{ partial "header.html" . }}
+        {{ end }}
+        <main role="main" class="inner cover">
+            {{ block "main" . }}
+                <!-- content of the respective page -->
+            {{ end }}
+        </main>
+        {{ block "footer" . }}
+            {{ partial "footer.html" . }}
+        {{ end }}
+    </div>
+    {{ partial "js.html" . }}
+</body>
+</html>
