@@ -8,4 +8,8 @@ Detailed description: https://ttntm.me/blog/store-locator-leaflet-hugo/
 
 ---
 
+Requires Hugo to build/run the site; after cloning/downloading it, you can either `hugo server` or `npm run start` in order to view the site on `http://localhost:1313`.
+
+---
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b85746f0-70cb-45d0-9dbe-655905041478/deploy-status)](https://app.netlify.com/sites/leaflet-store-locator/deploys)
