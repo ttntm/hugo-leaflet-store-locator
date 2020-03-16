@@ -4,7 +4,7 @@
   "description": "A Leaflet based store locator rendered as a static site by hugo.",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "hugo server --disableFastRender"
   },
   "author": "ttntm",
   "license": "MIT",

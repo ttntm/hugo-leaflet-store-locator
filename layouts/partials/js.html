@@ -55,15 +55,12 @@
         if(!isEmpty(pLat) | !isEmpty(pLon)) {
             // find the correct marker
             markers.eachLayer(function(layer) {
-                if(layer.options.key == id) {
+                if(layer.options.key === id) {
                     mymap.setView([pLat,pLon], 19); // move to the selected item and zoom in
                     layer.openPopup()
                 }
             });
         }
-        //else {
-        //    alert("No coordinates found!");
-        //}
     });
 
     // reset map
